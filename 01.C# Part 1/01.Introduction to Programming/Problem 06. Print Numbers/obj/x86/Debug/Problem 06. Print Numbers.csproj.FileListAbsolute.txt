@@ -1,0 +1,4 @@
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 06. Print Numbers\bin\Debug\ConsoleApplication2.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 06. Print Numbers\bin\Debug\ConsoleApplication2.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 06. Print Numbers\obj\x86\Debug\ConsoleApplication2.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 06. Print Numbers\obj\x86\Debug\ConsoleApplication2.pdb

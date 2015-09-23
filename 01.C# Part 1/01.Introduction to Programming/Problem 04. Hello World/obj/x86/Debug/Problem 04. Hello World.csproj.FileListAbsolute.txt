@@ -1,0 +1,4 @@
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 04. Hello World\bin\Debug\Problem 4. Hello World.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 04. Hello World\bin\Debug\Problem 4. Hello World.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 04. Hello World\obj\x86\Debug\Problem 4. Hello World.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 04. Hello World\obj\x86\Debug\Problem 4. Hello World.pdb

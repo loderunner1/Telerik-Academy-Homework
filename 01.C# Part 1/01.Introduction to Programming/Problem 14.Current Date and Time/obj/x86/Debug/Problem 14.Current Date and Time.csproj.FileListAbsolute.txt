@@ -2,3 +2,7 @@ D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\bin\Debug\ConsoleAppli
 D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\bin\Debug\ConsoleApplication7.pdb
 D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\obj\x86\Debug\ConsoleApplication7.exe
 D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\obj\x86\Debug\ConsoleApplication7.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 14.Current Date and Time\bin\Debug\ConsoleApplication7.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 14.Current Date and Time\bin\Debug\ConsoleApplication7.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 14.Current Date and Time\obj\x86\Debug\ConsoleApplication7.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 14.Current Date and Time\obj\x86\Debug\ConsoleApplication7.pdb

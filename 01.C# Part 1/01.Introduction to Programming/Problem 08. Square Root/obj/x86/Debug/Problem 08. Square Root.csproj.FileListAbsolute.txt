@@ -1,0 +1,4 @@
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 08. Square Root\bin\Debug\ConsoleApplication4.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 08. Square Root\bin\Debug\ConsoleApplication4.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 08. Square Root\obj\x86\Debug\ConsoleApplication4.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 08. Square Root\obj\x86\Debug\ConsoleApplication4.pdb

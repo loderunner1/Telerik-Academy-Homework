@@ -2,3 +2,8 @@ D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\bin\Debug\ConsoleAppli
 D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\bin\Debug\ConsoleApplication6.pdb
 D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\obj\x86\Debug\ConsoleApplication6.exe
 D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\obj\x86\Debug\ConsoleApplication6.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 10. Reformat CSharp Code\bin\Debug\ConsoleApplication6.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 10. Reformat CSharp Code\bin\Debug\ConsoleApplication6.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 10. Reformat CSharp Code\obj\x86\Debug\Problem 10. Reformat CSharp Code.csprojResolveAssemblyReference.cache
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 10. Reformat CSharp Code\obj\x86\Debug\ConsoleApplication6.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 10. Reformat CSharp Code\obj\x86\Debug\ConsoleApplication6.pdb

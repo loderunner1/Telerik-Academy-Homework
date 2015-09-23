@@ -3,3 +3,8 @@ D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\bin\Debug\Problem 16.Pri
 D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Debug\Problem 16.Print Long Sequence.exe
 D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Debug\Problem 16.Print Long Sequence.pdb
 D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Debug\Problem 16.Print Long Sequence.csprojResolveAssemblyReference.cache
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 16.Print Long Sequence\obj\x86\Debug\Problem 16.Print Long Sequence.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 16.Print Long Sequence\obj\x86\Debug\Problem 16.Print Long Sequence.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 16.Print Long Sequence\bin\Debug\Problem 16.Print Long Sequence.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 16.Print Long Sequence\bin\Debug\Problem 16.Print Long Sequence.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 16.Print Long Sequence\obj\x86\Debug\Problem 16.Print Long Sequence.csprojResolveAssemblyReference.cache

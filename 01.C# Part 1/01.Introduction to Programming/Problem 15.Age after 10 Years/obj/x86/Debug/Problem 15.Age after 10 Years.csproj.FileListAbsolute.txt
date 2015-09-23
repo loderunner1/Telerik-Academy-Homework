@@ -3,3 +3,8 @@ D:\Telerik\FirstHomeWork\Problem 15.Age after 10 Years\bin\Debug\ConsoleApplicat
 D:\Telerik\FirstHomeWork\Problem 15.Age after 10 Years\bin\Debug\ConsoleApplication8.pdb
 D:\Telerik\FirstHomeWork\Problem 15.Age after 10 Years\obj\x86\Debug\ConsoleApplication8.exe
 D:\Telerik\FirstHomeWork\Problem 15.Age after 10 Years\obj\x86\Debug\ConsoleApplication8.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 15.Age after 10 Years\bin\Debug\ConsoleApplication8.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 15.Age after 10 Years\bin\Debug\ConsoleApplication8.pdb
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 15.Age after 10 Years\obj\x86\Debug\Problem 15.Age after 10 Years.csprojResolveAssemblyReference.cache
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 15.Age after 10 Years\obj\x86\Debug\ConsoleApplication8.exe
+D:\XX GITHUB XX\01.C# Part 1\01.Introduction to Programming\Problem 15.Age after 10 Years\obj\x86\Debug\ConsoleApplication8.pdb
