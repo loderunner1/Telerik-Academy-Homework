@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 9. Print a Sequence\bin\Release\ConsoleApplication5.exe
+D:\Telerik\FirstHomeWork\Problem 9. Print a Sequence\bin\Release\ConsoleApplication5.pdb
+D:\Telerik\FirstHomeWork\Problem 9. Print a Sequence\obj\x86\Release\ConsoleApplication5.exe
+D:\Telerik\FirstHomeWork\Problem 9. Print a Sequence\obj\x86\Release\ConsoleApplication5.pdb

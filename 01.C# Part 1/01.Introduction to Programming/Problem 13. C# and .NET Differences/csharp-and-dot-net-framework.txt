@@ -1,0 +1,4 @@
+		  C# and .NET Framework
+
+Microsoft .NET is an application development framework. It is a powerful class library containing a range of functionality and environment for execution of .NET programs written in different programming languages.
+C# is a programming language using .NET libraries and functionalities to create applications. 

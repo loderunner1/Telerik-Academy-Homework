@@ -1,0 +1,17 @@
+
+			List of IDEs
+
+1.Eclipse
+Eclipse is free and open source software.It contains a base workspace and an extensible plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop applications. By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, Ruby.
+
+2.NetBeans
+NetBeans is an integrated development environment for developing primarily with Java, but also with other languages like PHP, C,C++, and HTML5.It is also an application platform framework for Java desktop applications and others.It is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+3.Xcode
+Xcode is an integrated development environment  containing a suite of software development tools developed by Apple for developing software for OS X and iOS.Xcode supports C, C++, Objective-C, Objective-C++, Java, AppleScript, Python, Ruby, Rez, and Swift source code with a variety of programming models, including but not limited to Cocoa, Carbon, and Java.
+
+4.Komodo IDE
+Komodo IDE is a paid integrated development environment from the ActiveState,a famous Mozilla Project. It  supports many languages which include  Perl, PHP, Python, C, C++,  Javascript, CSS, HTML, XML
+
+5. Monodevelop
+MonoDevelop is an open source integrated development environment for Linux, OS X and Windows.Its primary focus is development of projects that use Mono and .NET frameworks. MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio.It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and Visual Basic.NET.

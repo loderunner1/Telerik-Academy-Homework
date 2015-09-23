@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 6. Print Numbers\bin\Debug\ConsoleApplication2.exe
+D:\Telerik\FirstHomeWork\Problem 6. Print Numbers\bin\Debug\ConsoleApplication2.pdb
+D:\Telerik\FirstHomeWork\Problem 6. Print Numbers\obj\x86\Debug\ConsoleApplication2.exe
+D:\Telerik\FirstHomeWork\Problem 6. Print Numbers\obj\x86\Debug\ConsoleApplication2.pdb

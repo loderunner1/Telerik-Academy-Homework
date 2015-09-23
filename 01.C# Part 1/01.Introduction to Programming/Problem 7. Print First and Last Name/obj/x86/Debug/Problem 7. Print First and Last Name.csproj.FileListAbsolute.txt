@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 7. Print First and Last Name\bin\Debug\ConsoleApplication3.exe
+D:\Telerik\FirstHomeWork\Problem 7. Print First and Last Name\bin\Debug\ConsoleApplication3.pdb
+D:\Telerik\FirstHomeWork\Problem 7. Print First and Last Name\obj\x86\Debug\ConsoleApplication3.exe
+D:\Telerik\FirstHomeWork\Problem 7. Print First and Last Name\obj\x86\Debug\ConsoleApplication3.pdb

@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 8. Square Root\bin\Release\ConsoleApplication4.exe
+D:\Telerik\FirstHomeWork\Problem 8. Square Root\bin\Release\ConsoleApplication4.pdb
+D:\Telerik\FirstHomeWork\Problem 8. Square Root\obj\x86\Release\ConsoleApplication4.exe
+D:\Telerik\FirstHomeWork\Problem 8. Square Root\obj\x86\Release\ConsoleApplication4.pdb

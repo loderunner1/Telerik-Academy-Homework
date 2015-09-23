@@ -1,0 +1,17 @@
+
+		Programming languages
+
+1.Java
+Java is class-based, object-oriented programming language. Java is open source and platform-independent.Its syntax and pointer memory management are similar to C#. The main disadvantage of Java is that it is memory consuming and slow programming language because it has an extra layer between the systems and the programs called Java Virtual Machine. Anything done by the Java programs has to be executed by the Java Virtual Machine. Then it makes the system to do the actual instructions. 
+
+2. C programming Language
+C is one of the first high level programming language.It is  foundation of many popular programming language such as C++ and Java.it is used in most hardware related applications and is very suitable for writing programs in embedded device, chip designing and  industrial automation products.
+
+3. C Plus Plus
+C++ is powerful object oriented programming language developed as successor of C.It can be used for designing application software and device drivers. Compared to C# it has some disadvantages.The main disadvantage is that C++ doesn’t have the feature of garbage collection. Also C++ doesn’t offer very strong type-checking and doesn’t support platform independent. 
+
+4. PHP
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. PHP code can be simply mixed with HTML code, or it can be used in combination with various templating engines and web frameworks. Unlike C#  PHP is a dynamic and interpreted.
+
+5.JavaScript
+JavaScript is a dynamic computer programming language. It is most commonly used as part of web browsers, whose implementations allow client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter the document content that is displayed. It is also used in server-side network programming with runtime environments, game development and the creation of desktop and mobile applications.

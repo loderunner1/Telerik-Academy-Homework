@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 5. Print Your Name\bin\Release\ConsoleApplication1.exe
+D:\Telerik\FirstHomeWork\Problem 5. Print Your Name\bin\Release\ConsoleApplication1.pdb
+D:\Telerik\FirstHomeWork\Problem 5. Print Your Name\obj\x86\Release\ConsoleApplication1.exe
+D:\Telerik\FirstHomeWork\Problem 5. Print Your Name\obj\x86\Release\ConsoleApplication1.pdb

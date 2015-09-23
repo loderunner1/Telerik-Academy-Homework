@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\bin\Release\ConsoleApplication7.exe
+D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\bin\Release\ConsoleApplication7.pdb
+D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\obj\x86\Release\ConsoleApplication7.exe
+D:\Telerik\FirstHomeWork\Problem 14.Current Date and Time\obj\x86\Release\ConsoleApplication7.pdb

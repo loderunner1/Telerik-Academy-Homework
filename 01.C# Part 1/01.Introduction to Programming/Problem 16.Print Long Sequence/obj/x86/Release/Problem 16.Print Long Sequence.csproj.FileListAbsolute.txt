@@ -1,0 +1,10 @@
+D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\bin\Release\Problem 16.Print Long Sequence.exe
+D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\bin\Release\Problem 16.Print Long Sequence.pdb
+D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Release\Problem 16.Print Long Sequence.exe
+D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Release\Problem 16.Print Long Sequence.pdb
+D:\Telerik\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Release\Problem 16.Print Long Sequence.csprojResolveAssemblyReference.cache
+D:\Telerik\C# part one\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Release\Problem 16.Print Long Sequence.exe
+D:\Telerik\C# part one\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Release\Problem 16.Print Long Sequence.pdb
+D:\Telerik\C# part one\FirstHomeWork\Problem 16.Print Long Sequence\bin\Release\Problem 16.Print Long Sequence.exe
+D:\Telerik\C# part one\FirstHomeWork\Problem 16.Print Long Sequence\bin\Release\Problem 16.Print Long Sequence.pdb
+D:\Telerik\C# part one\FirstHomeWork\Problem 16.Print Long Sequence\obj\x86\Release\Problem 16.Print Long Sequence.csprojResolveAssemblyReference.cache

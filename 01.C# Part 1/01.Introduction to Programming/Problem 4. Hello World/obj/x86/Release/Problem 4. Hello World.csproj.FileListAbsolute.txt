@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 4. Hello World\bin\Release\Problem 4. Hello World.exe
+D:\Telerik\FirstHomeWork\Problem 4. Hello World\bin\Release\Problem 4. Hello World.pdb
+D:\Telerik\FirstHomeWork\Problem 4. Hello World\obj\x86\Release\Problem 4. Hello World.exe
+D:\Telerik\FirstHomeWork\Problem 4. Hello World\obj\x86\Release\Problem 4. Hello World.pdb

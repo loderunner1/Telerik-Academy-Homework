@@ -1,0 +1,4 @@
+D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\bin\Debug\ConsoleApplication6.exe
+D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\bin\Debug\ConsoleApplication6.pdb
+D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\obj\x86\Debug\ConsoleApplication6.exe
+D:\Telerik\FirstHomeWork\Problem 10. Reformat CSharp Code\obj\x86\Debug\ConsoleApplication6.pdb
